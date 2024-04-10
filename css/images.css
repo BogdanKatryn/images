@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(9, 255, 0);
+    background-image: url(https://i.gifer.com/2iFb.gif);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
+p{
+    font-size: 0.8in;
+    color: rgb(251, 255, 0);
+    background-image: url(https://i.gifer.com/EFKM.gif);
+    background-size: cover;
+    color: black;
+}
+div {
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+}
+#d1{
+    background-image: url(https://i.gifer.com/Se8X.gif);
+    width: 320px;
+    height: 225px;
+    border: ridge 20px rgb(128, 9, 240);
+}
+#d2{
+    background-image: linear-gradient(rgba(255,255,0,0.5), rgba(0,0,255,0.5)), url(https://static.drukukr.com/catalog/16/flag-00029__1400444380__615.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 340px;
+    border: solid 30px;
+    border-image: linear-gradient(yellow, blue) 30;
+}
+#img1{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+#img2{
+    width: 50%;
+    border-radius: 50%;
+    box-shadow: 10px -10px 50px rgb(17, 0, 255), 10px 10px 50px rgb(251, 255, 0);
+}
+#img3{
+    width: 50%;
+    border-radius: 50%;
+    box-shadow: 10px -10px 50px rgb(17, 0, 255), 10px 10px 50px rgb(251, 255, 0);
+}
+#d3{
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/14/20/38/planet-earth-1457453_1280.png), url(https://sotni.ru/wp-content/uploads/2023/08/gradientnyi-fon-301.webp);
+    width: 600px;
+    border: ridge 15px rgb(180, 88, 233);
+}
